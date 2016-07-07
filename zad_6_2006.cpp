@@ -21,6 +21,7 @@ bool czy_palindrom(string slowo) {
 		}
 	}
 
+
 	if(czy_tesame == slowo.length()){
 		return true;
 	} else {
