@@ -1,0 +1,5 @@
+Slow wystepujacych wiecej niz jeden raz jest: 21
+Slowo o najwiekszej liczbie wystapien to: EBFAABCCBD
+Ktore wystepuje: 30 razy 
+W pliku jest: 483 liczb parzystych
+W pliku znajduje sie: 20 palindromow
